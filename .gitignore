@@ -3,6 +3,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
 ### Node ###
+# User define
+wesopt29-private-key.json
 # Logs
 logs
 *.log
